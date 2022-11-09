@@ -1,0 +1,12 @@
+## Introdução ao desenvolvimento moderno de software :computer:
+
+#### termos importantes:
+
+- Ux design: melhora a experiência do usuário; cria o protótipo
+- Ui Design: foca na interface, cores, tipografia
+- Front-end: responsável por desenvolver o código na parte visual
+- Back-end: responsável pela parte atrás da aplicação
+- Full stack: programador capacitado para fazer todo o processo 
+- IDE: Ambiente de desenvolvimento integrado 
+- Framework: facilitador
+- API: interface de programação e aplicativos
