@@ -10,3 +10,9 @@
 - IDE: Ambiente de desenvolvimento integrado 
 - Framework: facilitador
 - API: interface de programação e aplicativos
+
+#### COMANDOS GIT
+ - git status: verifica o status do commit
+ - git add . : adiciona todos os arquivos
+ - git commit -m "comentario": cria commit
+ - git push origin main: envia os commit criados para a nuvem
